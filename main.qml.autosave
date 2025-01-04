@@ -101,6 +101,7 @@ Window {
             console.log("Cliccato! Avvio salto.");
             // Avvia l'animazione del salto quando viene cliccato
             jumpAnimation.start();
+            
 
         }
     }
