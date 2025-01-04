@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/back.jpg</file>
+        <file>image/base.jpg</file>
+        <file>image/soldier.png</file>
+        <file>image/bomb.png</file>
+        <file>image/moneta.gif</file>
+    </qresource>
+</RCC>
